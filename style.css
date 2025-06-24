@@ -313,6 +313,20 @@
  .form-row .form-group {
      flex: 1;
  }
+.submit-btn {Add commentMore actions
+     background-color: var(--harvard-crimson);
+     color: white;
+     border: none;
+     padding: 12px 25px;
+     border-radius: 4px;
+     cursor: pointer;
+     font-size: 1rem;
+     transition: background-color 0.3s;
+ }
+
+ .submit-btn:hover {
+     background-color: #8c1626;
+ }
  /* Contact Me */
  .contact-me{
     max-width: 800px;

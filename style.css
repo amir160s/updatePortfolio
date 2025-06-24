@@ -282,10 +282,7 @@
      color: var(--harvard-crimson);
  }
 
- #matrimonial {
-     margin-bottom: 20px;
- }
-/*From*/
+/*From Section*/
 .form-group {
      margin-bottom: 20px;
  }
@@ -327,6 +324,7 @@
  .submit-btn:hover {
      background-color: #8c1626;
  }
+
  /* Contact Me */
  .contact-me{
     max-width: 800px;

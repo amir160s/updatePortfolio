@@ -128,7 +128,7 @@
 
  /* Hero Section */
  .hero {
-     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/Images/hero.PNG') center/cover no-repeat;
+     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('hero.PNG') center/cover no-repeat;
      color: white;
      text-align: center;
      padding: 100px 20px;

@@ -285,7 +285,34 @@
  #matrimonial {
      margin-bottom: 20px;
  }
+/*From*/
+.form-group {
+     margin-bottom: 20px;
+ }
 
+ .form-group label {
+     display: block;
+     margin-bottom: 5px;
+     font-weight: 600;
+ }
+
+ .form-group input,
+ .form-group select,
+ .form-group textarea {
+     width: 100%;
+     padding: 10px;
+     border: 1px solid #ddd;
+     border-radius: 4px;
+ }
+
+ .form-row {Add commentMore actions
+     display: flex;
+     gap: 20px;
+ }
+
+ .form-row .form-group {
+     flex: 1;
+ }
  /* Contact Me */
  .contact-me{
     max-width: 800px;

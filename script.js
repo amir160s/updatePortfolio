@@ -86,7 +86,3 @@ function handleSubscribe(event) {
         alert("Please enter a valid email address.");
     }
 }
-// Download Biodata as PDF (simulated)
-document.getElementById('downloadBiodata').addEventListener('click', function () {
-    alert('In a real implementation, this would generate and download a PDF of your biodata.');
-});
